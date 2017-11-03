@@ -29,13 +29,13 @@ public class Calificacion2
  JOptionPane.showMessageDialog(null,"Suficiente");
  }
  else
- if(nota>=6) {
+ if(nota==6) {
  JOptionPane.showMessageDialog(null,"Bien");
  }
  else
  if (nota==7)
  {
- JOptionPane.showMessageDialog(null,"Notable");
+ JOptionPane.showMessageDialog(null,"notable");
   
    
   }
